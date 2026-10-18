@@ -1,23 +1,41 @@
 """
 Sunbeam Chatbot — Centralized Configuration
 All paths, API keys, model settings, and app constants.
+Supports local .env as well as Streamlit Community Cloud st.secrets.
 """
 
 import os
 from pathlib import Path
 from dotenv import load_dotenv
 
-# ── Load .env from project root ──────────────────────────────────────────────
+# ── Load .env from project root if it exists ──────────────────────────────────
 load_dotenv(Path(__file__).parent / ".env")
 
-# ── Project Paths (relative to project root) ─────────────────────────────────
+
+def get_secret(key: str, fallback: str = None) -> str:
+    """
+    Retrieve key from environment variables or Streamlit Cloud Secrets.
+    """
+    val = os.getenv(key)
+    if val:
+        return val
+    try:
+        import streamlit as st
+        if hasattr(st, "secrets") and key in st.secrets:
+            return st.secrets[key]
+    except Exception:
+        pass
+    return fallback
+
+
+# ── Project Paths ────────────────────────────────────────────────────────────
 BASE_DIR = Path(__file__).parent
 KNOWLEDGE_BASE_PATH = str(BASE_DIR / "data" / "knowledge_base")
 SCRAPING_DIR = str(BASE_DIR / "scraping")
 
 # ── API Keys ─────────────────────────────────────────────────────────────────
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-GEMINI_API_KEY = os.getenv("Gemini_API_KEY")
+GROQ_API_KEY = get_secret("GROQ_API_KEY")
+GEMINI_API_KEY = get_secret("Gemini_API_KEY") or get_secret("GEMINI_API_KEY")
 
 LLM_MODEL = "openai/gpt-oss-20b"   # Groq-hosted model
 LLM_TEMPERATURE = 0
