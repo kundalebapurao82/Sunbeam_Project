@@ -1,0 +1,231 @@
+# Course: PG Certificate Programme in Advanced Computing (PGCP-AC / DAC)
+URL: https://www.sunbeaminfo.com/courses/pg-certificate-programme-in-advanced-computing-pgcp-ac
+
+## Course Overview & Details:
+Home
+About
+Courses
+Videos
+Branches
+Testimonials
+FAQs
+Contact
+Placements
++918282829806
+Home
+/
+Courses
+/
+PG Certificate Programme in Advanced Computing (PGCP-AC)
+Post Graduate Diploma Programmes
+⭐ Featured
+PG Certificate Programme in Advanced Computing (PGCP-AC)
+The most popular PG certificate programme of C-DAC is PGCP-AC.
+1200 hours
+4,664 views
+✅ Certificate on completion
+✅ Hands-on projects
+✅ Industry-expert faculty
+Overview
+Syllabus
+What You'll Learn
+After completing the course students will be able to acquire the following skills:
+Using technologies to effectively access and interpret information
+Apply their analytical skills to investigate unfamiliar problems using web technologies like HTML 5.0, CSS, Java Script, Jquery, React JS
+Using quantitative data confidently and competently
+Using communication technologies effectively
+Understanding the multi-tier architecture of the web-based enterprise applications used. Enterprise JavaBeans. Integrating Servlets, JSPs with EJBs and databases in a J2EE application
+NET architecture, developing and maintaining applications
+Course Description
+This course is targeted towards engineering graduates and MCA/MSc who wish to enter the field of advanced computing. The aim of this course is to prepare students to be able to work in the current technological landscape, keep pace with the changes taking place in technology and meet the needs of the ever-growing information technology industry. The entire curriculum, syllabus, teaching methodology and course style are based on the rich research and development background of C-DAC. The PGCP-AC course, running successfully for over 25 years, has produced thousands of professionals who are well placed in the industry today.
+Prerequisites
+CDAC Common Admission Test
+Course Details
+Duration: 1200 hours
+Category: Post Graduate Diploma Programmes
+Related Courses
+Featured
+Post Graduate Diploma Programmes
+Post Graduate Certificate Programme in Mobile Computing (PGCP-MC)
+The Postgraduate Certificate Programme in Mobile Computing (PGCP-MC) targets electronics, computer science or IT engineers who wish to enter the field of mobile computing.
+1200 hours
+Contact for pricing
+View Details
+Featured
+Post Graduate Diploma Programmes
+Post Graduate Certificate Programme in Embedded Systems Design (PGCP-ESD)
+Keeping in view the increasing use of embedded systems in everyday life and the need for trained human resources in this emerging field, C-DAC launched PGCP-ESD programme for Computer, IT and Electronics Engineers.
+1200 hours
+Contact for pricing
+View Details
+Featured
+Post Graduate Diploma Programmes
+Post Graduate Certificate Programme in Big Data Analytics (PGCP-BDA)
+The PGCP-BDA will educate candidates who want to make an impact in the corporate and academic world in the field of Big Data Analytics as Data Scientists and Researchers, Big Data Leads/Investigators/Managers, Business Analysts and Data Visualization Specialists.
+1200 hours
+Contact for pricing
+View Details
+S
+Sunbeam Institute
+Excellence in IT Education since decades. Empowering students with industry-ready skills.
+Quick Links
+Home
+Courses
+Branches
+Testimonials
+FAQs
+Contact Us
+Contact Us
+Sunbeam Institute, Pune, Maharashtra, India
++918282829806
+siit@sunbeaminfo.com
+Stay Updated
+Get the latest course updates and placement news.
+Subscribe
+© 2026 Sunbeam Institute. All rights reserved.
+Designed with ❤️ for future IT professionals
+
+## Course Syllabus & Modules:
+Home
+About
+Courses
+Videos
+Branches
+Testimonials
+FAQs
+Contact
+Placements
++918282829806
+Home
+/
+Courses
+/
+PG Certificate Programme in Advanced Computing (PGCP-AC)
+Post Graduate Diploma Programmes
+⭐ Featured
+PG Certificate Programme in Advanced Computing (PGCP-AC)
+The most popular PG certificate programme of C-DAC is PGCP-AC.
+1200 hours
+4,664 views
+✅ Certificate on completion
+✅ Hands-on projects
+✅ Industry-expert faculty
+Overview
+Syllabus
+Course Syllabus
+1
+C++ Programming
+90 Hrs
+20 topics
++
+C++ Basics
+Tokens
+Operators & Expressions
+Conditional & Looping Statements
+Arrays
+Functions
+Memory Management & Pointers
+Classes & Objects
+Constructors & Destructors
+Inheritance
+Polymorphism
+Operator Overloading
+Virtual Functions & Abstract Classes
+Namespaces
+Exception Handling
+File Handling
+Templates
+Standard Template Library (STL)
+Run-Time Type Information (RTTI)
+Dynamic Memory Allocation
+2
+Database Technologies
+90 Hrs
+23 topics
++
+3
+Concepts of Operating System & Software Development Methodologies
+60 Hrs
+20 topics
++
+4
+Object Oriented Programming with Java
+150 Hrs
+27 topics
++
+5
+Algorithms and Data Structures Using Java
+90 Hrs
+17 topics
++
+6
+Web Programming Technologies
+150 Hrs
+15 topics
++
+7
+Web-based Java Programming
+150 Hrs
+15 topics
++
+8
+Microsoft .Net Technologies
+120 Hrs
+26 topics
++
+9
+Aptitude
+60 Hrs
+31 topics
++
+10
+Effective Communication
+60 Hrs
+11 topics
++
+11
+Project
+180 Hrs
+2 topics
++
+Related Courses
+Featured
+Post Graduate Diploma Programmes
+Post Graduate Certificate Programme in Mobile Computing (PGCP-MC)
+The Postgraduate Certificate Programme in Mobile Computing (PGCP-MC) targets electronics, computer science or IT engineers who wish to enter the field of mobile computing.
+1200 hours
+Contact for pricing
+View Details
+Featured
+Post Graduate Diploma Programmes
+Post Graduate Certificate Programme in Embedded Systems Design (PGCP-ESD)
+Keeping in view the increasing use of embedded systems in everyday life and the need for trained human resources in this emerging field, C-DAC launched PGCP-ESD programme for Computer, IT and Electronics Engineers.
+1200 hours
+Contact for pricing
+View Details
+Featured
+Post Graduate Diploma Programmes
+Post Graduate Certificate Programme in Big Data Analytics (PGCP-BDA)
+The PGCP-BDA will educate candidates who want to make an impact in the corporate and academic world in the field of Big Data Analytics as Data Scientists and Researchers, Big Data Leads/Investigators/Managers, Business Analysts and Data Visualization Specialists.
+1200 hours
+Contact for pricing
+View Details
+S
+Sunbeam Institute
+Excellence in IT Education since decades. Empowering students with industry-ready skills.
+Quick Links
+Home
+Courses
+Branches
+Testimonials
+FAQs
+Contact Us
+Contact Us
+Sunbeam Institute, Pune, Maharashtra, India
++918282829806
+siit@sunbeaminfo.com
+Stay Updated
+Get the latest course updates and placement news.
+Subscribe
+© 2026 Sunbeam Institute. All rights reserved.
+Designed with ❤️ for future IT professionals

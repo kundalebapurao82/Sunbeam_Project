@@ -1,0 +1,241 @@
+# Course: PG Certificate Programme in Big Data Analytics (PGCP-BDA / DBDA)
+URL: https://www.sunbeaminfo.com/courses/post-graduate-certificate-programme-in-big-data-analytics-pgcp-bda
+
+## Course Overview & Details:
+Home
+About
+Courses
+Videos
+Branches
+Testimonials
+FAQs
+Contact
+Placements
++918282829806
+Home
+/
+Courses
+/
+Post Graduate Certificate Programme in Big Data Analytics (PGCP-BDA)
+Post Graduate Diploma Programmes
+⭐ Featured
+Post Graduate Certificate Programme in Big Data Analytics (PGCP-BDA)
+The PGCP-BDA will educate candidates who want to make an impact in the corporate and academic world in the field of Big Data Analytics as Data Scientists and Researchers, Big Data Leads/Investigators/Managers, Business Analysts and Data Visualization Specialists.
+1200 hours
+2,723 views
+✅ Certificate on completion
+✅ Hands-on projects
+✅ Industry-expert faculty
+Overview
+Syllabus
+What You'll Learn
+After completing this course, students will be trained in Statistics and Machine Learning using Python. They will make data driven decisions which provide them a competitive advantage in the market, technologies like Hadoop, Spark, Hive, Machine Learning provides a spring board for AI which makes them ready for Industry 4.0. At the end of the course, students will be able to work as data analysts, data engineers. Studying Big Data will broaden their horizon by surpassing market forecast / predictions for Big Data Analytics.
+Course Description
+This course is suitable for those already working in analytics to enhance their theoretical and conceptual knowledge, as well as those with analytical aptitude who want to start a career in big data analytics across various business sectors. Students will be able to work with big data platforms, analyze various big data analysis techniques for useful business applications, design efficient algorithms for mining data from large volumes, analyze Hadoop and Map Reduce techniques associated with big data analytics, and explore big data applications
+The Postgraduate Certificate Programme in Big Data Analytics (PGCP-BDA) blends theory and practical focus on the following:
+Explore the fundamental concepts of Big Data Analytics with in-depth knowledge and understanding of the Big Data Analytics domain
+Understanding different search methods and visualization techniques and using different techniques for data stream mining
+To analyze and solve conceptual and practical problems from diverse industries such as government manufacturing, retail, education, banking/finance, healthcare, and pharmaceutical
+Undertake consultancy and industrial projects with significant data analytics component to better understand theoretical concepts from statistics, economics and building future solutions data analytics to impact technological advancements
+To be prepared to use advanced analytical tools/decision making tools/operational research techniques to analyse complex problems and develop new such techniques for the future.
+To understand cloud computing, it is important to understand the dynamically changing resources and services that are being accessed and the need for the functioning to be organized.
+Course Details
+Duration: 1200 hours
+Category: Post Graduate Diploma Programmes
+Related Courses
+Featured
+Post Graduate Diploma Programmes
+PG Certificate Programme in Advanced Computing (PGCP-AC)
+The most popular PG certificate programme of C-DAC is PGCP-AC.
+1200 hours
+Contact for pricing
+View Details
+Featured
+Post Graduate Diploma Programmes
+Post Graduate Certificate Programme in Mobile Computing (PGCP-MC)
+The Postgraduate Certificate Programme in Mobile Computing (PGCP-MC) targets electronics, computer science or IT engineers who wish to enter the field of mobile computing.
+1200 hours
+Contact for pricing
+View Details
+Featured
+Post Graduate Diploma Programmes
+Post Graduate Certificate Programme in Embedded Systems Design (PGCP-ESD)
+Keeping in view the increasing use of embedded systems in everyday life and the need for trained human resources in this emerging field, C-DAC launched PGCP-ESD programme for Computer, IT and Electronics Engineers.
+1200 hours
+Contact for pricing
+View Details
+S
+Sunbeam Institute
+Excellence in IT Education since decades. Empowering students with industry-ready skills.
+Quick Links
+Home
+Courses
+Branches
+Testimonials
+FAQs
+Contact Us
+Contact Us
+Sunbeam Institute, Pune, Maharashtra, India
++918282829806
+siit@sunbeaminfo.com
+Stay Updated
+Get the latest course updates and placement news.
+Subscribe
+© 2026 Sunbeam Institute. All rights reserved.
+Designed with ❤️ for future IT professionals
+
+## Course Syllabus & Modules:
+Home
+About
+Courses
+Videos
+Branches
+Testimonials
+FAQs
+Contact
+Placements
++918282829806
+Home
+/
+Courses
+/
+Post Graduate Certificate Programme in Big Data Analytics (PGCP-BDA)
+Post Graduate Diploma Programmes
+⭐ Featured
+Post Graduate Certificate Programme in Big Data Analytics (PGCP-BDA)
+The PGCP-BDA will educate candidates who want to make an impact in the corporate and academic world in the field of Big Data Analytics as Data Scientists and Researchers, Big Data Leads/Investigators/Managers, Business Analysts and Data Visualization Specialists.
+1200 hours
+2,723 views
+✅ Certificate on completion
+✅ Hands-on projects
+✅ Industry-expert faculty
+Overview
+Syllabus
+Course Syllabus
+1
+Linux Programming and Cloud Computing
+60 Hrs
+31 topics
++
+1. Linux Programming: Installation (Ubuntu and CentOS)
+Basics of Linux
+Configuring Linux
+Shells
+Commands and Navigation
+Common Text Editors
+Administering Linux
+Introduction to Users and Groups
+Linux shell scripting
+Shell computing
+Introduction to enterprise computing
+Remote access
+2. Introduction to Git/GitHub/Gitlab: Introduction to Version control systems
+Creating GitHub repository
+Using Git
+Creating projects on Github/gitlab and managing code repos
+3. Introduction to Cloud Computing: Cloud Computing Basics
+Understanding Cloud Vendors (AWS:EC2 instance- lambda and Azure: Azure virtual machines-Azure data factory)
+Definition
+Characteristics
+Components
+Cloud provider
+SAAS- PAAS- IAAS and other Organizational scenarios of clouds
+Benefits and limitations
+Deploy application over cloud
+Comparison among SAAS- PAAS- IAAS
+Cloud Products and Solutions
+Compute Products and Services
+Elastic Cloud Compute
+Dashboard
+Deploy AI and analytics workloads in Cloud environments with sample mini project.
+2
+Data Collection & DBMS (Principles- Tools & Platforms)
+120 Hrs
+29 topics
++
+3
+Python and R Programming
+120 Hrs
+51 topics
++
+4
+Java Programming
+90 Hrs
+15 topics
++
+5
+Big Data Technologies
+180 Hrs
+77 topics
++
+6
+Advanced Analytics using Statistics
+150 Hrs
+43 topics
++
+7
+Data Visualization - Analysis and Reporting
+90 Hrs
+17 topics
++
+8
+Practical Machine Learning
+150 Hrs
+35 topics
++
+9
+Aptitude
+60 Hrs
+28 topics
++
+10
+Effective Communication:
+60 Hrs
+11 topics
++
+11
+Project
+180 Hrs
+3 topics
++
+Related Courses
+Featured
+Post Graduate Diploma Programmes
+PG Certificate Programme in Advanced Computing (PGCP-AC)
+The most popular PG certificate programme of C-DAC is PGCP-AC.
+1200 hours
+Contact for pricing
+View Details
+Featured
+Post Graduate Diploma Programmes
+Post Graduate Certificate Programme in Mobile Computing (PGCP-MC)
+The Postgraduate Certificate Programme in Mobile Computing (PGCP-MC) targets electronics, computer science or IT engineers who wish to enter the field of mobile computing.
+1200 hours
+Contact for pricing
+View Details
+Featured
+Post Graduate Diploma Programmes
+Post Graduate Certificate Programme in Embedded Systems Design (PGCP-ESD)
+Keeping in view the increasing use of embedded systems in everyday life and the need for trained human resources in this emerging field, C-DAC launched PGCP-ESD programme for Computer, IT and Electronics Engineers.
+1200 hours
+Contact for pricing
+View Details
+S
+Sunbeam Institute
+Excellence in IT Education since decades. Empowering students with industry-ready skills.
+Quick Links
+Home
+Courses
+Branches
+Testimonials
+FAQs
+Contact Us
+Contact Us
+Sunbeam Institute, Pune, Maharashtra, India
++918282829806
+siit@sunbeaminfo.com
+Stay Updated
+Get the latest course updates and placement news.
+Subscribe
+© 2026 Sunbeam Institute. All rights reserved.
+Designed with ❤️ for future IT professionals

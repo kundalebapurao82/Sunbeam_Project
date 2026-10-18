@@ -1,0 +1,245 @@
+# Course: PG Certificate Programme in Embedded Systems Design (PGCP-ESD / DESD)
+URL: https://www.sunbeaminfo.com/courses/post-graduate-certificate-programme-in-embedded-systems-design-pgcp-esd
+
+## Course Overview & Details:
+Home
+About
+Courses
+Videos
+Branches
+Testimonials
+FAQs
+Contact
+Placements
++918282829806
+Home
+/
+Courses
+/
+Post Graduate Certificate Programme in Embedded Systems Design (PGCP-ESD)
+Post Graduate Diploma Programmes
+⭐ Featured
+Post Graduate Certificate Programme in Embedded Systems Design (PGCP-ESD)
+Keeping in view the increasing use of embedded systems in everyday life and the need for trained human resources in this emerging field, C-DAC launched PGCP-ESD programme for Computer, IT and Electronics Engineers.
+1200 hours
+1,732 views
+✅ Certificate on completion
+✅ Hands-on projects
+✅ Industry-expert faculty
+Overview
+Syllabus
+What You'll Learn
+Candidates will be trained in hardware and firmware design of Embedded System based applications, Internet of Things (IoT), project development and management skills. At the end of the course students will be able to work as System Design Engineers and Embedded Engineers with good knowledge of RT Linux, Microcontroller and Microprocessor based design, Device Drivers and RTOS. Students can start a career as Embedded Developer, Tester and Lead Project Manager after gaining relevant experience.
+Course Description
+Embedded systems is a specialized field where engineers need to have good knowledge in hardware and software design. Keeping this aspect in mind, C-DAC has designed this course with equal emphasis on hardware and software, enabling engineers to meet the challenges in designing and developing cutting-edge embedded systems. The objective of this course is to enable students to work on embedded technology scenarios, as well as prepare them to keep pace with the changing face of technology and the requirements of the growing electronics and IT industry. The curriculum has been designed keeping in mind the latest technology in embedded systems as well as the contemporary and future human resource requirements of the ICT industry. The course includes a module on Internet of Things (IoT), specifically focusing on IoT architecture, applications, standards and protocols.
+Prerequisites
+C-CAT Syllabus
+Course Details
+Duration: 1200 hours
+Category: Post Graduate Diploma Programmes
+Related Courses
+Featured
+Post Graduate Diploma Programmes
+PG Certificate Programme in Advanced Computing (PGCP-AC)
+The most popular PG certificate programme of C-DAC is PGCP-AC.
+1200 hours
+Contact for pricing
+View Details
+Featured
+Post Graduate Diploma Programmes
+Post Graduate Certificate Programme in Mobile Computing (PGCP-MC)
+The Postgraduate Certificate Programme in Mobile Computing (PGCP-MC) targets electronics, computer science or IT engineers who wish to enter the field of mobile computing.
+1200 hours
+Contact for pricing
+View Details
+Featured
+Post Graduate Diploma Programmes
+Post Graduate Certificate Programme in Big Data Analytics (PGCP-BDA)
+The PGCP-BDA will educate candidates who want to make an impact in the corporate and academic world in the field of Big Data Analytics as Data Scientists and Researchers, Big Data Leads/Investigators/Managers, Business Analysts and Data Visualization Specialists.
+1200 hours
+Contact for pricing
+View Details
+S
+Sunbeam Institute
+Excellence in IT Education since decades. Empowering students with industry-ready skills.
+Quick Links
+Home
+Courses
+Branches
+Testimonials
+FAQs
+Contact Us
+Contact Us
+Sunbeam Institute, Pune, Maharashtra, India
++918282829806
+siit@sunbeaminfo.com
+Stay Updated
+Get the latest course updates and placement news.
+Subscribe
+© 2026 Sunbeam Institute. All rights reserved.
+Designed with ❤️ for future IT professionals
+
+## Course Syllabus & Modules:
+Home
+About
+Courses
+Videos
+Branches
+Testimonials
+FAQs
+Contact
+Placements
++918282829806
+Home
+/
+Courses
+/
+Post Graduate Certificate Programme in Embedded Systems Design (PGCP-ESD)
+Post Graduate Diploma Programmes
+⭐ Featured
+Post Graduate Certificate Programme in Embedded Systems Design (PGCP-ESD)
+Keeping in view the increasing use of embedded systems in everyday life and the need for trained human resources in this emerging field, C-DAC launched PGCP-ESD programme for Computer, IT and Electronics Engineers.
+1200 hours
+1,732 views
+✅ Certificate on completion
+✅ Hands-on projects
+✅ Industry-expert faculty
+Overview
+Syllabus
+Course Syllabus
+1
+Embedded C Programming
+150 Hrs
+41 topics
++
+Basics of Program Writing & Coding Practices
+Overview of C Programming language
+Introduction to GNU Toolchain and GNU Make utility
+Linux environment and vi editor
+Tokens of C - Keywords
+Data-Types
+Variables
+Constants
+Operators
+Identifiers
+Storage Class Specifiers
+Control Flow Statements
+Arrays
+Multidimensional arrays
+Data Input & Output
+Strings
+Loops
+Functions and Recursion
+Pointers - Introduction
+Pointer Arithmetic
+Pointers and Arrays
+Pointers and Functions
+Pointers and Strings
+Structures
+Unions
+Enum
+Typedef
+Bit field operators and pointers with structures
+Preprocessors
+C and Assembly
+Files
+I/O
+Variable number of arguments
+Command Line arguments
+Error handling
+Debugging and Optimization of C programs
+Bit operations
+Handling portability issues in C
+Hardware
+Time
+Space and Power aware Programming
+2
+Data Structures and Algorithms
+120 Hrs
+10 topics
++
+3
+Microcontroller Programming and Interfacing
+150 Hrs
+4 topics
++
+4
+Embedded Operating Systems
+120 Hrs
+21 topics
++
+5
+Embedded Device Drivers
+90 Hrs
+16 topics
++
+6
+Real-time Operating Systems
+90 Hrs
+9 topics
++
+7
+Internet of Things (IoT)
+90 Hrs
+17 topics
++
+8
+Edge AI for Embedded Systems
+90 Hrs
+10 topics
++
+9
+Aptitude
+60 Hrs
+31 topics
++
+10
+Effective Communication
+60 Hrs
+11 topics
++
+11
+Project
+180 Hrs
++
+Related Courses
+Featured
+Post Graduate Diploma Programmes
+PG Certificate Programme in Advanced Computing (PGCP-AC)
+The most popular PG certificate programme of C-DAC is PGCP-AC.
+1200 hours
+Contact for pricing
+View Details
+Featured
+Post Graduate Diploma Programmes
+Post Graduate Certificate Programme in Mobile Computing (PGCP-MC)
+The Postgraduate Certificate Programme in Mobile Computing (PGCP-MC) targets electronics, computer science or IT engineers who wish to enter the field of mobile computing.
+1200 hours
+Contact for pricing
+View Details
+Featured
+Post Graduate Diploma Programmes
+Post Graduate Certificate Programme in Big Data Analytics (PGCP-BDA)
+The PGCP-BDA will educate candidates who want to make an impact in the corporate and academic world in the field of Big Data Analytics as Data Scientists and Researchers, Big Data Leads/Investigators/Managers, Business Analysts and Data Visualization Specialists.
+1200 hours
+Contact for pricing
+View Details
+S
+Sunbeam Institute
+Excellence in IT Education since decades. Empowering students with industry-ready skills.
+Quick Links
+Home
+Courses
+Branches
+Testimonials
+FAQs
+Contact Us
+Contact Us
+Sunbeam Institute, Pune, Maharashtra, India
++918282829806
+siit@sunbeaminfo.com
+Stay Updated
+Get the latest course updates and placement news.
+Subscribe
+© 2026 Sunbeam Institute. All rights reserved.
+Designed with ❤️ for future IT professionals

@@ -1,0 +1,25 @@
+# Sunbeam Chatbot - Python Dependencies
+# Python 3.11+ compatible
+
+# Core Framework
+streamlit>=1.38.0
+
+# LangChain Ecosystem
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-groq>=0.2.0
+langchain-google-genai>=2.0.0
+langchain-text-splitters>=0.3.0
+
+# LangGraph (Agent framework)
+langgraph>=0.2.34
+
+# Vector Database
+chromadb>=0.5.0
+
+# Scraping & Web Utilities
+selenium>=4.20.0
+beautifulsoup4>=4.12.0
+
+# Environment and Utilities
+python-dotenv>=1.0.0

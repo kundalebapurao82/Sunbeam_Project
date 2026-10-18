@@ -1,0 +1,213 @@
+# Course: PG Certificate Programme in Mobile Computing (PGCP-MC / DMC)
+URL: https://www.sunbeaminfo.com/courses/post-graduate-certificate-programme-in-mobile-computing-pgcp-mc
+
+## Course Overview & Details:
+Home
+About
+Courses
+Videos
+Branches
+Testimonials
+FAQs
+Contact
+Placements
++918282829806
+Home
+/
+Courses
+/
+Post Graduate Certificate Programme in Mobile Computing (PGCP-MC)
+Post Graduate Diploma Programmes
+⭐ Featured
+Post Graduate Certificate Programme in Mobile Computing (PGCP-MC)
+The Postgraduate Certificate Programme in Mobile Computing (PGCP-MC) targets electronics, computer science or IT engineers who wish to enter the field of mobile computing.
+1200 hours
+2,242 views
+✅ Certificate on completion
+✅ Hands-on projects
+✅ Industry-expert faculty
+Overview
+Syllabus
+What You'll Learn
+After completing the course students will be able to acquire the following skills: Design and build advanced native apps on Android and iOS platforms Work with cross-functional teams to define, design, and ship new features Unit-test code for robustness, including edge cases, usability, and general reliability. Identify and correct bottlenecks and fix bugs to maximize development efficiency, continuously discover, evaluate, and implement new technologies.
+Designing and building hybrid mobile apps using React Native, HTML5, CSS and JavaScript web standards.
+Analyze and explain the behavior of programs associated with the fundamental program, create, design, and implement a class based on the characteristics and behaviors of objects. Design and implement components such as: Session, Entity, EJB. Understanding the multi-tier architecture of web-based enterprise applications using Enterprise JavaBeans. Integrating Servlets, JSP with EJB and Database in J2EE application. Understanding Deployment Descriptors and Enterprise Application Deployment.
+How to think creatively, analytically, and abstractly about computational problems.
+Course Description
+The Post-Graduate Certificate Programme in Mobile Computing (PGCP-MC) is targeted towards electronics/computer sciences/IT engineers who wish to venture into the domain of mobile computing. The course aims to groom the students to enable them to work on current technology scenarios as well as prepare them to keep pace with the changing face of technology and requirements of an exponentially growing mobile industry. The entire course syllabus, courseware, teaching methodology and the course delivery have been derived from the rich research and development background of C-DAC.
+Prerequisites
+CDAC Common Admmission Test
+Course Details
+Duration: 1200 hours
+Category: Post Graduate Diploma Programmes
+Related Courses
+Featured
+Post Graduate Diploma Programmes
+PG Certificate Programme in Advanced Computing (PGCP-AC)
+The most popular PG certificate programme of C-DAC is PGCP-AC.
+1200 hours
+Contact for pricing
+View Details
+Featured
+Post Graduate Diploma Programmes
+Post Graduate Certificate Programme in Embedded Systems Design (PGCP-ESD)
+Keeping in view the increasing use of embedded systems in everyday life and the need for trained human resources in this emerging field, C-DAC launched PGCP-ESD programme for Computer, IT and Electronics Engineers.
+1200 hours
+Contact for pricing
+View Details
+Featured
+Post Graduate Diploma Programmes
+Post Graduate Certificate Programme in Big Data Analytics (PGCP-BDA)
+The PGCP-BDA will educate candidates who want to make an impact in the corporate and academic world in the field of Big Data Analytics as Data Scientists and Researchers, Big Data Leads/Investigators/Managers, Business Analysts and Data Visualization Specialists.
+1200 hours
+Contact for pricing
+View Details
+S
+Sunbeam Institute
+Excellence in IT Education since decades. Empowering students with industry-ready skills.
+Quick Links
+Home
+Courses
+Branches
+Testimonials
+FAQs
+Contact Us
+Contact Us
+Sunbeam Institute, Pune, Maharashtra, India
++918282829806
+siit@sunbeaminfo.com
+Stay Updated
+Get the latest course updates and placement news.
+Subscribe
+© 2026 Sunbeam Institute. All rights reserved.
+Designed with ❤️ for future IT professionals
+
+## Course Syllabus & Modules:
+Home
+About
+Courses
+Videos
+Branches
+Testimonials
+FAQs
+Contact
+Placements
++918282829806
+Home
+/
+Courses
+/
+Post Graduate Certificate Programme in Mobile Computing (PGCP-MC)
+Post Graduate Diploma Programmes
+⭐ Featured
+Post Graduate Certificate Programme in Mobile Computing (PGCP-MC)
+The Postgraduate Certificate Programme in Mobile Computing (PGCP-MC) targets electronics, computer science or IT engineers who wish to enter the field of mobile computing.
+1200 hours
+2,242 views
+✅ Certificate on completion
+✅ Hands-on projects
+✅ Industry-expert faculty
+Overview
+Syllabus
+Course Syllabus
+1
+Operating System Concepts and Linux Programming
+30 Hrs
+6 topics
++
+Operating System Basics
+Introduction to Linux
+Basic Commands
+Linux Shell
+Scripting
+Introduction to Cloud Computing.
+2
+Database Technologies
+60 Hrs
+15 topics
++
+3
+Object Orientend Programming with Java
+150 Hrs
+28 topics
++
+4
+Algorithm and Data Structures
+90 Hrs
+6 topics
++
+5
+Web based Java Programming
+60 Hrs
+13 topics
++
+6
+Mobile Programming
+210 Hrs
+2 topics
++
+7
+Hybrid Mobile Apps Programming
+210 Hrs
+3 topics
++
+8
+AI on Mobile Platforms
+90 Hrs
+13 topics
++
+9
+Aptitude
+60 Hrs
+31 topics
++
+10
+Effective Communication
+60 Hrs
+11 topics
++
+11
+Project
+180 Hrs
++
+Related Courses
+Featured
+Post Graduate Diploma Programmes
+PG Certificate Programme in Advanced Computing (PGCP-AC)
+The most popular PG certificate programme of C-DAC is PGCP-AC.
+1200 hours
+Contact for pricing
+View Details
+Featured
+Post Graduate Diploma Programmes
+Post Graduate Certificate Programme in Embedded Systems Design (PGCP-ESD)
+Keeping in view the increasing use of embedded systems in everyday life and the need for trained human resources in this emerging field, C-DAC launched PGCP-ESD programme for Computer, IT and Electronics Engineers.
+1200 hours
+Contact for pricing
+View Details
+Featured
+Post Graduate Diploma Programmes
+Post Graduate Certificate Programme in Big Data Analytics (PGCP-BDA)
+The PGCP-BDA will educate candidates who want to make an impact in the corporate and academic world in the field of Big Data Analytics as Data Scientists and Researchers, Big Data Leads/Investigators/Managers, Business Analysts and Data Visualization Specialists.
+1200 hours
+Contact for pricing
+View Details
+S
+Sunbeam Institute
+Excellence in IT Education since decades. Empowering students with industry-ready skills.
+Quick Links
+Home
+Courses
+Branches
+Testimonials
+FAQs
+Contact Us
+Contact Us
+Sunbeam Institute, Pune, Maharashtra, India
++918282829806
+siit@sunbeaminfo.com
+Stay Updated
+Get the latest course updates and placement news.
+Subscribe
+© 2026 Sunbeam Institute. All rights reserved.
+Designed with ❤️ for future IT professionals

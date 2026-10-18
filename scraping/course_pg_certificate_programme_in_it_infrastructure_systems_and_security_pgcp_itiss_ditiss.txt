@@ -1,0 +1,225 @@
+# Course: PG Certificate Programme in IT Infrastructure Systems and Security (PGCP-ITISS / DITISS)
+URL: https://www.sunbeaminfo.com/courses/post-graduate-certificate-programme-in-it-infrastructure-systems-and-security-pgcp-itiss
+
+## Course Overview & Details:
+Home
+About
+Courses
+Videos
+Branches
+Testimonials
+FAQs
+Contact
+Placements
++918282829806
+Home
+/
+Courses
+/
+Post Graduate Certificate Programme in IT Infrastructure, Systems and Security (PGCP-ITISS)
+Post Graduate Diploma Programmes
+⭐ Featured
+Post Graduate Certificate Programme in IT Infrastructure, Systems and Security (PGCP-ITISS)
+The objective of PGCP-ITISS is to train students in the field of Human-Computer Interaction and Cyber and Network Security.
+1200 hours
+1,809 views
+✅ Certificate on completion
+✅ Hands-on projects
+✅ Industry-expert faculty
+Overview
+Syllabus
+What You'll Learn
+The theoretical and practical mix of the Post Graduate Certificate Programme in IT Infrastructure, Systems and Security (PGCP-ITISS) programme has the following focus: Understanding the concepts of data center management, application security implementation and using various techniques for ethical hacking and cyber forensics Analyzing threat detection techniques, intrusion detection and prevention measures Use advanced tools/decision making instruments/techniques to analyse complex problems and be prepared to develop such new techniques for the future Learning cloud computing, accessing the resources and services needed to function with dynamically changing needs, thereby applying cloud privacy and security concepts to cloud platforms to create a secure cloud environment To analyze and solve conceptual and practical problems from diverse industries such as government manufacturing, retail, education, banking/finance, healthcare, and pharmaceutical Undertake industrial research projects to develop future solutions in the field of information security to impact technological advancement After completing this course, students can work as: System administrator Network Security Professional Web Security Checker Information Security Analyst
+Course Description
+The objective of this course is to enable students to understand the concepts of network security and learn techniques to detect attacks and secure the network from internal and external attacks. At the end of the course, students will be able to recognize various common security threats and vulnerabilities, understand the principles and practices of cryptographic techniques, identify and analyze security problems specific to a given application, and apply appropriate security techniques to address security issues.
+Prerequisites
+CDAC Common Admission Test
+Course Details
+Duration: 1200 hours
+Category: Post Graduate Diploma Programmes
+Related Courses
+Featured
+Post Graduate Diploma Programmes
+PG Certificate Programme in Advanced Computing (PGCP-AC)
+The most popular PG certificate programme of C-DAC is PGCP-AC.
+1200 hours
+Contact for pricing
+View Details
+Featured
+Post Graduate Diploma Programmes
+Post Graduate Certificate Programme in Mobile Computing (PGCP-MC)
+The Postgraduate Certificate Programme in Mobile Computing (PGCP-MC) targets electronics, computer science or IT engineers who wish to enter the field of mobile computing.
+1200 hours
+Contact for pricing
+View Details
+Featured
+Post Graduate Diploma Programmes
+Post Graduate Certificate Programme in Embedded Systems Design (PGCP-ESD)
+Keeping in view the increasing use of embedded systems in everyday life and the need for trained human resources in this emerging field, C-DAC launched PGCP-ESD programme for Computer, IT and Electronics Engineers.
+1200 hours
+Contact for pricing
+View Details
+S
+Sunbeam Institute
+Excellence in IT Education since decades. Empowering students with industry-ready skills.
+Quick Links
+Home
+Courses
+Branches
+Testimonials
+FAQs
+Contact Us
+Contact Us
+Sunbeam Institute, Pune, Maharashtra, India
++918282829806
+siit@sunbeaminfo.com
+Stay Updated
+Get the latest course updates and placement news.
+Subscribe
+© 2026 Sunbeam Institute. All rights reserved.
+Designed with ❤️ for future IT professionals
+
+## Course Syllabus & Modules:
+Home
+About
+Courses
+Videos
+Branches
+Testimonials
+FAQs
+Contact
+Placements
++918282829806
+Home
+/
+Courses
+/
+Post Graduate Certificate Programme in IT Infrastructure, Systems and Security (PGCP-ITISS)
+Post Graduate Diploma Programmes
+⭐ Featured
+Post Graduate Certificate Programme in IT Infrastructure, Systems and Security (PGCP-ITISS)
+The objective of PGCP-ITISS is to train students in the field of Human-Computer Interaction and Cyber and Network Security.
+1200 hours
+1,809 views
+✅ Certificate on completion
+✅ Hands-on projects
+✅ Industry-expert faculty
+Overview
+Syllabus
+Course Syllabus
+1
+Fundamental of Computer Networks
+120 Hrs
+16 topics
++
+Introduction to communication system
+Overview of Transmission Media
+OSI Layers
+TCP/IP Models
+Router IOS & Security Device Manager
+Managing an Internetworking Router
+Overview of LAN (local area networks)
+VLAN (virtual local area network)
+Configuration of switch
+Overview of STP
+Discussion of Networking Protocols
+IP Addressing (Fixed Length Subnet Masking
+Variable Length Subnet Masking, Classless Inter Domain Routing)
+Static Routing and Dynamic Routing (RIP, IGRP, EIGRP, OSPF)
+Introduction to NAT, Introduction to IPv6, Introduction of WAN
+Infrastructure Security, Software defined network.
+2
+Programming Concepts
+90 Hrs
+19 topics
++
+3
+Concepts of Operating System and Administration
+210 Hrs
+40 topics
++
+4
+Network Defense and Countermeasures (NDC)
+90 Hrs
+12 topics
++
+5
+Compliance Audit
+30 Hrs
+10 topics
++
+6
+Security Concepts
+120 Hrs
+49 topics
++
+7
+Cyber Forensics
+60 Hours
+4 topics
++
+8
+Public Key Infrastructure
+60 Hours
+13 topics
++
+9
+IT Infrastructure Management & DevOps
+120 Hours
+11 topics
++
+10
+Aptitude
+60 Hrs
+17 topics
++
+11
+Effective Communication
+60 Hrs
+5 topics
++
+12
+Project
+180 Hrs
++
+Related Courses
+Featured
+Post Graduate Diploma Programmes
+PG Certificate Programme in Advanced Computing (PGCP-AC)
+The most popular PG certificate programme of C-DAC is PGCP-AC.
+1200 hours
+Contact for pricing
+View Details
+Featured
+Post Graduate Diploma Programmes
+Post Graduate Certificate Programme in Mobile Computing (PGCP-MC)
+The Postgraduate Certificate Programme in Mobile Computing (PGCP-MC) targets electronics, computer science or IT engineers who wish to enter the field of mobile computing.
+1200 hours
+Contact for pricing
+View Details
+Featured
+Post Graduate Diploma Programmes
+Post Graduate Certificate Programme in Embedded Systems Design (PGCP-ESD)
+Keeping in view the increasing use of embedded systems in everyday life and the need for trained human resources in this emerging field, C-DAC launched PGCP-ESD programme for Computer, IT and Electronics Engineers.
+1200 hours
+Contact for pricing
+View Details
+S
+Sunbeam Institute
+Excellence in IT Education since decades. Empowering students with industry-ready skills.
+Quick Links
+Home
+Courses
+Branches
+Testimonials
+FAQs
+Contact Us
+Contact Us
+Sunbeam Institute, Pune, Maharashtra, India
++918282829806
+siit@sunbeaminfo.com
+Stay Updated
+Get the latest course updates and placement news.
+Subscribe
+© 2026 Sunbeam Institute. All rights reserved.
+Designed with ❤️ for future IT professionals
